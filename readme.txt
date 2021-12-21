@@ -2,11 +2,7 @@
 
 DESCRIPTION:
 
-HOWDY is a modern, minimal and well crafted responsive template designed for 
-creatives and freelancers. The template can be used as a vCard/resume template and 
-for showcasing your works. Howdy is mobile and retina ready which means your site 
-will look great, crisp and sharp on any screen resolutions and devices. Howdy is built 
-on clean and organized code which makes it easy to customize.
+Hi I'm Chaitanya Kukreja
 
 --------------------------------------------------------------------------------------
 
@@ -28,6 +24,7 @@ Stock Photos and Graphics:
  - Picjumbo.com (https://picjumbo.com/)
  - RawPixels.com (https://www.rawpixel.com/)
  - Minimography.com (http://minimography.com/)
+ - Unsplash.com (https://unsplash.com/)
  
 Javascript Files:
 
